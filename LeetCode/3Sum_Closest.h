@@ -1,3 +1,4 @@
+//best answer:https://leetcode.com/problems/3sum-closest/discuss/7883/C++-solution-O(n2)-using-sort
 #pragma once
 #include<vector>
 #include<math.h>
